@@ -1,5 +1,5 @@
 [CENTER]
-[CENTER][IMG="Cerberus"]https://github.com/CerberusOS/xda-template/blob/Pie/TITLE.png[/IMG][/CENTER]
+[CENTER][IMG="Cerberus"]https://github.com/CerberusOS/xda-template/blob/Pie/TITLE.png?raw=true[/IMG][/CENTER]
 
 [CENTER][CODE]
 * Disclaimer 
@@ -11,14 +11,14 @@
 * BOOM! goes the dynamite
 [/CODE][/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/intro.png[/img]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/intro.png?raw=true[/img]
 [QUOTE]
 The Base Of CerberusOS is GZOSP and thus Special Thanks to @martinusbe & Team GZR for the same.
 And Special Thanks to Team BaikalOS & @andr68rus.
 [/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/features.png[/img]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/features.png?raw=true[/img]
 [QUOTE][LEFT]
 [HIDE]
 [B][COLOR="#1976D2"][U]FEATURE[/U][/COLOR][/B]
@@ -31,7 +31,7 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/team.png[/img][/url]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/team.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 [MENTION=5581790]Pranav Trivedi : [/MENTION] (Project Leader - He Thinks)
 [MENTION=1790769]Alif Fathur :[/MENTION] (Project Co-Leader - Actually He Is)
@@ -45,13 +45,13 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/support.png[/img][/url]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/support.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 [B]Telegram Group[/B] - [B][URL="https://t.me/CerberusOSTeam"]CerberusOS Telegram Public Group[/URL][/B]
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS-Future/xda-template/blob/Pie/download.png[/img][/url]
+[CENTER][img]https://github.com/CerberusOS-Future/xda-template/blob/Pie/download.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 
 [B]ROM: [URL=""]DEVICE NAME[/URL][/B]
@@ -62,7 +62,7 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/flashing%20ins.pngE[/img][/url]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/flashing%20ins.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 [B]Clean Flash[/B]
 1) Backup Everything (Most Important)
@@ -91,14 +91,14 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/sources.png[/img][/url]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/sources.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 [B]ROM Source[/B] - [B][URL="https://github.com/CerberusOS"]CerberusOS Pie Sources[/URL][/B]
 
 [B]Kernel Source[/B] - [B][URL=""]Kernel Source[/URL][/B]
 [/LEFT][/QUOTE]
 
-[img]https://github.com/CerberusOS/xda-template/blob/Pie/credit.png[/img][/url]
+[img]https://github.com/CerberusOS/xda-template/blob/Pie/credit.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 We would like to give thanks to everyone in the Android community, big or small.
 
@@ -132,7 +132,7 @@ That said, we would like to Thank all These Teams for their contribution to the 
 [/LEFT][/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/note.png[/img][/url]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/note.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 1) Please do not use TiB. If you want use then try Swift Backup or Migrate. These are better options for now.
 2) Please Use Paid Themes preferably, so that Substratum Dev can keep on their good work.
