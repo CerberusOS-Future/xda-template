@@ -23,7 +23,9 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [HIDE]
 [B][COLOR="#1976D2"][U]FEATURE[/U][/COLOR][/B]
 
-* Yet to be implemented. We are lazy AF
+* Pixel Recents
+* Few statusbar customization
+* More will be added in new updates!
 
 [/HIDE]
 [/LEFT][/QUOTE]
@@ -36,10 +38,10 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [MENTION=9506906]Rohan Hasabe :[/MENTION] (Project Co-Leader / Maintainer)
 [MENTION=8386921]Abhishek Singh: [/MENTION] (Devloper & Feature Integrator)
 [MENTION=7284063]Shantanu Singh : [/MENTION] (Developer & Codes Fixer)
-[MENTION=9350978]Alexandra Vissace : [/MENTION] (Developer & Codes Fixer)
 [MENTION=8213897]Rohit Shelke :[/MENTION] (Maintainer & Boot Maker)
 [MENTION=7910402]Arun Kasisaja:[/MENTION] (Wallpaper / BA Designer)
-[MENTION=8363123]Sarthak Malla:[/MENTION] (Code Guru)
+[MENTION=8072879]KrishV[/MENTION](Graphics Designer / Devloper & Feature Integrator)
+[MENTION=6152318]Ovenoboyo[/MENTION](Devloper & Feature Integrator)
 [/LEFT][/QUOTE]
 [/CENTER]
 
@@ -120,9 +122,10 @@ That said, we would like to Thank all These Teams for their contribution to the 
 * [B][URL=https://github.com/ResurrectionRemix]Resurrection Remix ROM[/B][/URL]
 * [B][URL=https://github.com/AIMROM]AIM ROM[/B][/URL]
 * [B][URL=https://github.com/ToxycOS]Toxyc OS[/B][/URL]
-* [B][URL=https://github.com/AexMod]AEX Mod[/B][/URL]
+* [B][URL=https://github.com/AospExtended]AospExtended/B][/URL]
 * [B][URL=https://github.com/Syberia-Project]Syberia-Project[/B][/URL]
 * [B][URL=https://github.com/FireHound]FireHound[/B][/URL]
+* [B][URL=https://github.com/PotatoProject]PotatoOSP[/B][/URL]
 [/HIDE]
 **[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
 
