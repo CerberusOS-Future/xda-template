@@ -18,7 +18,7 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [/QUOTE]
 [/CENTER]
 
-[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/features.png[/img][/url]
+[CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/features.png[/img]
 [QUOTE][LEFT]
 [HIDE]
 [B][COLOR="#1976D2"][U]FEATURE[/U][/COLOR][/B]
