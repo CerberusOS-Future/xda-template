@@ -108,6 +108,7 @@ We would like to give thanks to everyone in the Android community, big or small.
 
 That said, we would like to Thank all These Teams for their contribution to the OpenSource Community.
 [HIDE]
+* [B][URL=https://github.com/LawnchairLauncher/Lawnchair]Lawnchair Launcher[/B][/URL]
 * [B][URL=https://github.com/LineageOS]LineageOS/Cyanogenmod[/B][/URL]
 * [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
 * [B][URL=https://github.com/baikalos]Baikal OS[/B][/URL]
