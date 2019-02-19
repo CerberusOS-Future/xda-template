@@ -23,9 +23,10 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [HIDE]
 [B][COLOR="#1976D2"][U]FEATURE[/U][/COLOR][/B]
 
-* Pixel Recents
-* Few statusbar customization
-* More will be added in new updates!
+- Merged android-9.0.0_r31 (February Security Patch).
+- Changed Default Launcher To Lawnchair.
+- Added Pie Recents.
+- Minor Improvements & Bug Fixes.
 
 [/HIDE]
 [/LEFT][/QUOTE]
@@ -38,6 +39,7 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [MENTION=9506906]Rohan Hasabe :[/MENTION] (Project Co-Leader / Maintainer)
 [MENTION=8386921]Abhishek Singh: [/MENTION] (Devloper & Feature Integrator)
 [MENTION=7284063]Shantanu Singh : [/MENTION] (Developer & Codes Fixer)
+[MENTION=9350978]Alexandra Vissace[/MENTION](Developer & Bug Fixer)
 [MENTION=8213897]Rohit Shelke :[/MENTION] (Maintainer & Boot Maker)
 [MENTION=7910402]Arun Kasisaja:[/MENTION] (Wallpaper / BA Designer)
 [MENTION=8072879]KrishV[/MENTION](Graphics Designer / Devloper & Feature Integrator)
@@ -96,6 +98,8 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [B]ROM Source[/B] - [B][URL="https://github.com/CerberusOS"]CerberusOS Pie Sources[/URL][/B]
 
 [B]Kernel Source[/B] - [B][URL=""]Kernel Source[/URL][/B]
+
+[B]Device Source[/B] - [B][URL="https://github.com/Cerberus-Devices"]Device Source[/URL][/B]
 [/LEFT][/QUOTE]
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/credit.png?raw=true[/img][/url]
