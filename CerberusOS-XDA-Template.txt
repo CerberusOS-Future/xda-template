@@ -35,15 +35,12 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 [CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/team.png?raw=true[/img][/url]
 [QUOTE][LEFT]
 [MENTION=5581790]Pranav Trivedi : [/MENTION] (Project Leader - He Thinks)
-[MENTION=1790769]Alif Fathur :[/MENTION] (Project Co-Leader - Actually He Is)
 [MENTION=9506906]Rohan Hasabe :[/MENTION] (Project Co-Leader / Maintainer)
-[MENTION=8386921]Abhishek Singh: [/MENTION] (Devloper & Feature Integrator)
-[MENTION=7284063]Shantanu Singh : [/MENTION] (Developer & Codes Fixer)
+[MENTION=8386921]Abhishek Singh: [/MENTION] (Feature Integrator & Code Guru)
+[MENTION=7284063]Shantanu Singh : [/MENTION] (Developer & ASCII Guru)
 [MENTION=9350978]Alexandra Vissace[/MENTION](Developer & Bug Fixer)
 [MENTION=8213897]Rohit Shelke :[/MENTION] (Maintainer & Boot Maker)
 [MENTION=7910402]Arun Kasisaja:[/MENTION] (Wallpaper / BA Designer)
-[MENTION=8072879]KrishV[/MENTION](Graphics Designer / Devloper & Feature Integrator)
-[MENTION=6152318]Ovenoboyo[/MENTION](Devloper & Feature Integrator)
 [/LEFT][/QUOTE]
 [/CENTER]
 
@@ -108,28 +105,23 @@ We would like to give thanks to everyone in the Android community, big or small.
 
 That said, we would like to Thank all These Teams for their contribution to the OpenSource Community.
 [HIDE]
+* [B][URL=https://github.com/baikalos/]BaiKalOS[/B][/URL]
 * [B][URL=https://github.com/LawnchairLauncher/Lawnchair]Lawnchair Launcher[/B][/URL]
 * [B][URL=https://github.com/LineageOS]LineageOS/Cyanogenmod[/B][/URL]
 * [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
 * [B][URL=https://github.com/baikalos]Baikal OS[/B][/URL]
-* [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/URL] & Specially @RakeshBatra[/B]
+* [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/URL
 * [B][URL=https://github.com/OmniRom]OmniROM[/B][/URL]
 * [B][URL=https://github.com/Nitrogen-Project]Nitrogen OS[/B][/URL]
 * [B][URL=https://github.com/AICP]AICP[/B][/URL]
 * [B][URL=https://github.com/CrDroidAndroid]crDroid[/B][/URL]
 * [B][URL=https://github.com/DirtyUnicorns]DirtyUnicorns[/B][/URL]
-* [B][URL=https://github.com/ScrewdAOSP]Screwd AOSP[/B][/URL]
 * [B][URL=https://github.com/CypherOS]CypherOS[/B][/URL]
 * [B][URL=https://github.com/LiquidRemix]Liquid Remix[/B][/URL]
-* [B][URL=https://github.com/BenzoROM]Benzo ROM[/B][/URL]
 * [B][URL=https://github.com/BootLeggersRom]BootLeggers ROM[/B][/URL]
 * [B][URL=https://github.com/AospExtended]AOSP Extended ROM[/B][/URL]
 * [B][URL=https://github.com/ResurrectionRemix]Resurrection Remix ROM[/B][/URL]
-* [B][URL=https://github.com/AIMROM]AIM ROM[/B][/URL]
-* [B][URL=https://github.com/ToxycOS]Toxyc OS[/B][/URL]
 * [B][URL=https://github.com/AospExtended]AospExtended/B][/URL]
-* [B][URL=https://github.com/Syberia-Project]Syberia-Project[/B][/URL]
-* [B][URL=https://github.com/FireHound]FireHound[/B][/URL]
 * [B][URL=https://github.com/PotatoProject]PotatoOSP[/B][/URL]
 [/HIDE]
 **[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
