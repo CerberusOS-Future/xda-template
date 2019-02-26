@@ -46,7 +46,7 @@ And Special Thanks to Team BaikalOS & @andr68rus.
 
 [CENTER][img]https://github.com/CerberusOS/xda-template/blob/Pie/support.png?raw=true[/img][/url]
 [QUOTE][LEFT]
-[B]Telegram Group[/B] - [B][URL="https://t.me/CerberusOSTeam"]CerberusOS Telegram Public Group[/URL][/B]
+[B]Telegram Group[/B] - [B][URL="https://t.me/CerberusOS"]CerberusOS Telegram Public Group[/URL][/B]
 [/LEFT][/QUOTE]
 [/CENTER]
 
@@ -105,11 +105,10 @@ We would like to give thanks to everyone in the Android community, big or small.
 
 That said, we would like to Thank all These Teams for their contribution to the OpenSource Community.
 [HIDE]
-* [B][URL=https://github.com/baikalos/]BaiKalOS[/B][/URL]
+* [B][URL=https://github.com/baikalos/]BaiKal OS[/B][/URL]
 * [B][URL=https://github.com/LawnchairLauncher/Lawnchair]Lawnchair Launcher[/B][/URL]
 * [B][URL=https://github.com/LineageOS]LineageOS/Cyanogenmod[/B][/URL]
 * [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
-* [B][URL=https://github.com/baikalos]Baikal OS[/B][/URL]
 * [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/URL
 * [B][URL=https://github.com/OmniRom]OmniROM[/B][/URL]
 * [B][URL=https://github.com/Nitrogen-Project]Nitrogen OS[/B][/URL]
