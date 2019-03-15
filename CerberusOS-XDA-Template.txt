@@ -16,11 +16,117 @@ And Special Thanks to Team BaikalOS & [MENTION=7884203]andr68rus[/MENTION].
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/features.png?raw=true[/img]
 [HIDE]
-[B][COLOR="#1976D2"][U]FEATURE[/U][/COLOR][/B]
+[B][COLOR="#1976D2"][U]FEATURES[/U][/COLOR][/B]
+[B]Cerberus 1.5[/B]
 - Merged android-9.0.0_r31 (February Security Patch).
 - Changed Default Launcher To Lawnchair.
 - Added Pie Recents.
 - Minor Improvements & Bug Fixes.
+
+[B]Cerberus 1.6[/B]
+- Merged android-9.0.0_r34 [March SP]
+************  Feature List  **************
+
+Button
+-------------------
+Customize action on Home,Recent & Back Button
+Answer call with vol+
+Reject call with vol-
+End call with power button
+
+
+Navigation Bar
+--------------------
+Nav bar enable/disable
+Customize layout of Nav bar
+
+
+Recents
+--------------------
+Slim Recents
+
+
+Status Bar
+--------------------
+Batter Bar (Customizable colors)
+Show Net activity on status bar
+Net activity autohide threshold
+Swap between 4G/LTE icon
+Enable/disable volte icon
+Enable/disable Roaming indicator
+DT2S
+
+
+Notification
+---------------------
+Heads up notifications
+Notification ticker
+
+
+Lockscreen
+---------------------
+Fingerprint Auth vibration
+Smartlock Auto unlock
+Unlock with FP on reboot
+
+
+Themes
+----------------------
+Light
+Dark, Light notifications
+Dark
+Dark Transparent
+Black, Light notifications
+Black
+Black Transparent
+Various Accent Colors
+
+
+Animations
+-----------------------
+Screen off animation
+Users can select their own bootanimation
+
+
+System Extentions
+-----------------------
+Google sans font (requires reboot)
+Wakeup on double hand wave
+Sleep on double hand wave
+System App Remover
+
+
+Audio Tweaks
+------------------------
+High SBC bitrate
+Highest SBC bitrate
+Extreme SBC bitrate
+Suspend While Play
+
+
+Power Save Tweaks
+-------------------------
+Suspend Actions
+Sensor block per-package
+Aggresive idle
+Wakelock Blocker
+Throttle Alarms
+Restrict Screen On
+Whitlist
+App Ops
+
+
+Torch
+--------------------------
+Torch on Power Button
+Flash on incoming call
+
+
+In-call vibration
+---------------------------
+Vibrate on connect
+Vibrate on call waiting
+Vibrate on disconnect
 [/HIDE]
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/team.png?raw=true[/img]
@@ -38,8 +144,7 @@ And Special Thanks to Team BaikalOS & [MENTION=7884203]andr68rus[/MENTION].
 
 [img]https://github.com/CerberusOS-Future/xda-template/blob/Pie/download.png?raw=true[/img]
 
-[B]ROM: [URL="https://sourceforge.net/projects/cerberusos-rom/files/helium/"]HELIUM[/URL][/B]
-[B]ROM: [URL="https://sourceforge.net/projects/cerberusos-rom/files/hydrogen/"]HYDROGEN[/URL][/B]
+[B]ROM: [URL="https://sourceforge.net/projects/cerberusos-rom/files/beryllium/"]BERYLLIUM[/URL][/B]
 
 [B]Gapps Package: [URL="https://opengapps.org/"] Open Gapps [/URL][/B]
 
@@ -78,9 +183,9 @@ And Special Thanks to Team BaikalOS & [MENTION=7884203]andr68rus[/MENTION].
 
 [B]ROM Source[/B] - [B][URL="https://github.com/CerberusOS"]CerberusOS Pie Sources[/URL][/B]
 
-[B]Kernel Source[/B] - [B][URL="https://github.com/pranavaryans1987/kernel_xiaomi_msm8956"]Kernel Source[/URL][/B]
+[B]Kernel Source[/B] - [B][URL="https://github.com/AOSiP-Devices/device_xiaomi_beryllium"]Kernel Source[/URL][/B]
 
-[B]Device Source[/B] - [B][URL="https://github.com/Cerberus-Devices"]Device Source[/URL][/B]
+[B]Device Source[/B] - [B][URL="https://github.com/AOSiP-Devices/device_xiaomi_beryllium"]Device Source[/URL][/B]
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/credits.png?raw=true[/img]
 
@@ -108,7 +213,7 @@ That said, we would like to Thank all These Teams for their contribution to the 
 [/HIDE]
 **[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
 
-[URL=https://www.paypal.me/alexandravissace]Click Here To Donate[/URL]
+[URL=https://www.paypal.me/pranavaryansroms]Click Here To Donate[/URL]
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/note.png?raw=true[/img]
 
 1) Please do not use TiB. If you want use then try Swift Backup or Migrate. These are better options for now.
