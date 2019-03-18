@@ -25,7 +25,6 @@ And Special Thanks to Team BaikalOS & [MENTION=7884203]andr68rus[/MENTION].
 
 [B]Cerberus 1.6[/B]
 - Merged android-9.0.0_r34 [March SP]
-************  Feature List  **************
 
 Button
 -------------------
@@ -144,31 +143,29 @@ Vibrate on disconnect
 
 [img]https://github.com/CerberusOS-Future/xda-template/blob/Pie/download.png?raw=true[/img]
 
-[B]ROM: [URL="https://sourceforge.net/projects/cerberusos-rom/files/beryllium/"]BERYLLIUM[/URL][/B]
+[B]ROM: [URL="https://sourceforge.net/projects/cerberusos/files/builds/DEVICE/"]DEVICE NAME[/URL][/B]
 
 [B]Gapps Package: [URL="https://opengapps.org/"] Open Gapps [/URL][/B]
 
 [B]It's recommended to flash Nano Gapps only for better user experience.[/B]
 
-
-
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/flashing%20ins.png?raw=true[/img]
 
 [B]Clean Flash[/B]
-1) Backup Everything (Most Important)
+1) Backup Everything (Most Important) + Latest Vendors And Firmware
 2) Download ROM, Gapps, Magisk, etc.
 3) Reboot to Recovery (TWRP)
 4) Wipe System, Data, Cache, Dalvik Cache.
-5) Flash - ROM, Gapps, Magisk
+5) Flash - Vendor + Firmware + ROM + Gapps + DFE + Msgisk.
 6) Once done, wipe cache.
 7) Reboot to System.
 
 [B]Dirty Flash[/B]
-1) Backup Everything (Most Important)
+1) Backup Everything (Most Important) + Latest Vendors And Firmware
 2) Download ROM
 3) Reboot to Recovery (TWRP)
 4) Wipe Cache & Dalvik Cache.
-5) Flash - ROM.
+5) Flash - Vendor + Firmware + ROM + Gapps + DFE + Msgisk.
 6) Once done, wipe cache.
 7) Reboot to System.
 
@@ -181,11 +178,11 @@ Vibrate on disconnect
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/sources.png?raw=true[/img]
 
-[B]ROM Source[/B] - [B][URL="https://github.com/CerberusOS"]CerberusOS Pie Sources[/URL][/B]
+[B]ROM Source[/B] - [B][URL="https://github.com/CerberusOS/manifest"]CerberusOS Pie Sources[/URL][/B]
 
-[B]Kernel Source[/B] - [B][URL="https://github.com/AOSiP-Devices/device_xiaomi_beryllium"]Kernel Source[/URL][/B]
+[B]Kernel Source[/B] - [B][URL="YOUR KERNEL SOURCE"]Kernel Source[/URL][/B]
 
-[B]Device Source[/B] - [B][URL="https://github.com/AOSiP-Devices/device_xiaomi_beryllium"]Device Source[/URL][/B]
+[B]Device Source[/B] - [B][URL="YOUR DEVICE SOURCE"]Device Source[/URL][/B]
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/credits.png?raw=true[/img]
 
@@ -197,7 +194,7 @@ That said, we would like to Thank all These Teams for their contribution to the 
 * [B][URL=https://github.com/LawnchairLauncher/Lawnchair]Lawnchair Launcher[/B][/URL]
 * [B][URL=https://github.com/LineageOS]LineageOS/Cyanogenmod[/B][/URL]
 * [B][URL=https://github.com/GZOSP]GZOSP[/B][/URL]
-* [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/URL]
+* [B][URL=https://github.com/Colt-Enigma]ColtOS Team[/B][/URL]
 * [B][URL=https://github.com/OmniRom]OmniROM[/B][/URL]
 * [B][URL=https://github.com/Nitrogen-Project]Nitrogen OS[/B][/URL]
 * [B][URL=https://github.com/AICP]AICP[/B][/URL]
@@ -208,7 +205,7 @@ That said, we would like to Thank all These Teams for their contribution to the 
 * [B][URL=https://github.com/BootLeggersRom]BootLeggers ROM[/B][/URL]
 * [B][URL=https://github.com/AospExtended]AOSP Extended ROM[/B][/URL]
 * [B][URL=https://github.com/ResurrectionRemix]Resurrection Remix ROM[/B][/URL]
-* [B][URL=https://github.com/AospExtended]AospExtended/B][/URL]
+* [B][URL=https://github.com/AospExtended]AospExtended[/B][/URL]
 * [B][URL=https://github.com/PotatoProject]PotatoOSP[/B][/URL]
 [/HIDE]
 **[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.[/B]**
