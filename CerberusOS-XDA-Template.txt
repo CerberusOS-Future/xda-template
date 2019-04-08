@@ -16,15 +16,6 @@ And Special Thanks to Team BaikalOS & [MENTION=7884203]andr68rus[/MENTION].
 
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/features.png?raw=true[/img]
 [HIDE]
-[B][COLOR="#1976D2"][U]FEATURES[/U][/COLOR][/B]
-[B]Cerberus 1.5[/B]
-- Merged android-9.0.0_r31 (February Security Patch).
-- Changed Default Launcher To Lawnchair.
-- Added Pie Recents.
-- Minor Improvements & Bug Fixes.
-
-[B]Cerberus 1.6[/B]
-- Merged android-9.0.0_r34 [March SP]
 
 Button
 -------------------
@@ -33,17 +24,14 @@ Answer call with vol+
 Reject call with vol-
 End call with power button
 
-
 Navigation Bar
 --------------------
 Nav bar enable/disable
 Customize layout of Nav bar
 
-
 Recents
 --------------------
 Slim Recents
-
 
 Status Bar
 --------------------
@@ -55,19 +43,22 @@ Enable/disable volte icon
 Enable/disable Roaming indicator
 DT2S
 
+Quick Settings
+--------------------
+QS row column customization
+Brigntness slider position
+Vibrate on QS Tile
 
 Notification
 ---------------------
 Heads up notifications
 Notification ticker
 
-
 Lockscreen
 ---------------------
 Fingerprint Auth vibration
 Smartlock Auto unlock
 Unlock with FP on reboot
-
 
 Themes
 ----------------------
@@ -86,7 +77,6 @@ Animations
 Screen off animation
 Users can select their own bootanimation
 
-
 System Extentions
 -----------------------
 Google sans font (requires reboot)
@@ -94,14 +84,12 @@ Wakeup on double hand wave
 Sleep on double hand wave
 System App Remover
 
-
 Audio Tweaks
 ------------------------
 High SBC bitrate
 Highest SBC bitrate
 Extreme SBC bitrate
 Suspend While Play
-
 
 Power Save Tweaks
 -------------------------
@@ -114,12 +102,10 @@ Restrict Screen On
 Whitlist
 App Ops
 
-
 Torch
 --------------------------
 Torch on Power Button
 Flash on incoming call
-
 
 In-call vibration
 ---------------------------
@@ -131,7 +117,7 @@ Vibrate on disconnect
 [img]https://github.com/CerberusOS/xda-template/blob/Pie/team.png?raw=true[/img]
 [MENTION=5581790]Pranav Trivedi : [/MENTION] (Project Leader - He Thinks)
 [MENTION=9506906]Rohan Hasabe :[/MENTION] (Project Co-Leader / Maintainer)
-[MENTION=8386921]Abhishek Singh: [/MENTION] (Feature Integrator & Code Guru)
+[MENTION=8386921]Abhishek Singh: [/MENTION] (Developer / Maintainer)
 [MENTION=7284063]Shantanu Singh : [/MENTION] (Developer & ASCII Guru)
 [MENTION=9350978]Alexandra Vissace[/MENTION](Developer & Bug Fixer)
 [MENTION=8213897]Rohit Shelke :[/MENTION] (Maintainer & Boot Maker)
