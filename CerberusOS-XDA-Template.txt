@@ -135,7 +135,7 @@ Vibrate on disconnect
 2) Download ROM, Gapps, Magisk, etc.
 3) Reboot to Recovery (TWRP)
 4) Wipe System, Data, Cache, Dalvik Cache.
-5) Flash - Vendor + Firmware + ROM + Gapps + DFE + Msgisk.
+5) Flash - ROM + Gapps + Msgisk.
 6) Once done, wipe cache.
 7) Reboot to System.
 
@@ -144,7 +144,7 @@ Vibrate on disconnect
 2) Download ROM
 3) Reboot to Recovery (TWRP)
 4) Wipe Cache & Dalvik Cache.
-5) Flash - Vendor + Firmware + ROM + Gapps + DFE + Msgisk.
+5) Flash - ROM.
 6) Once done, wipe cache.
 7) Reboot to System.
 
