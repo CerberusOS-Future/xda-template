@@ -62,15 +62,8 @@ Unlock with FP on reboot
 
 Themes
 ----------------------
-Light
-Dark, Light notifications
-Dark
-Dark Transparent
-Black, Light notifications
-Black
-Black Transparent
+Base Color (Light, Dark/Lignt Notification/Transparent, Black/Lignt Notification/Transparent)
 Various Accent Colors
-
 
 Animations
 -----------------------
